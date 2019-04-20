@@ -94,7 +94,7 @@ class MultiPlayerGameLogic {
     gameOver = false;
   }
 
-  List playerStateProvider(){
+  List playerStateProvider() {
     return playerState;
   }
 }
